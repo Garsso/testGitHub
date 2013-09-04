@@ -29,9 +29,12 @@ public class DatosBean {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+   /**
+     * @return the a p e l l i d o s
+     */
 
     /**
-     * @return the apellidos
+   
      */
     public String getApellidos() {
         return apellidos;
